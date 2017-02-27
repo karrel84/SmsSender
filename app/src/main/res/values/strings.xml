@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MmsSender</string>
+    <string name="empty_message">송신할 데이터가 없습니다.</string>
+    <string name="comfirm">확인</string>
+    <string name="error_empty_sms_model">보낼 SMS모델이 반드시 있어야 합니다.</string>
+    <string name="want_you_send_msg">총 %s건의 메세지를 전송하시겠습니까?</string>
+    <string name="cancel">취소</string>
+    <string name="send_complete">전송완료</string>
+    <string name="send_fail">전송 실패</string>
+    <string name="not_service_area">서비스 지역이 아닙니다</string>
+    <string name="off_the_radio">무선(Radio)가 꺼져있습니다</string>
+    <string name="sms_receive_complete">SMS 도착 완료</string>
+    <string name="sms_receive_fail">SMS 도착 실패</string>
+    <string name="sms_completeMsg" formatted="false">총 %s건의 문자중 %s건이 성공하였습니다.</string>
+
+</resources>
